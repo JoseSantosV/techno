@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    font-family: 'Poppins', sans-serif !important;
+  }
+  /* kkk */
+  
+  /* .brightness-control, .font-size-control {
+    margin-bottom: 20px;
+  } */
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  .fila_wdgt.container-fluid{
+    padding: 0px;
+        width: 100%;
+        max-width: 100% !important;
+    }
+    .btn-primary {
+      padding: 0px 11px !important;
+    margin: 0 !important;
+ 
+    }
+    /* input[type="range"]::-webkit-slider-runnable-track {
+      background-color: red; /* Cambia el color del track a rojo */
+    
+
+
+    .logo {
+      filter: invert(1);
+    }
+    .logo2 {
+      filter: invert(1);
+    }
+    .logo1 {
+      filter: invert(0);
+    }
+        #contenedorContenido img{
+    
+            width: 100%;
+    
+        }
+    
+    #contenedorContenido section{ padding-top: 50px; padding-bottom: 50px; }
+    #contenedorContenido section { background-size: cover;
+    background-position: center center; }
+  .dark-mode {
+    background-color: #222 !important;
+    color: #fff !important;
+  }
+
+  nav a {
+    color: #000;
+  }
+  header {
+   
+   
+    text-align: center;
+  }
+  
+  .boton{
+    color:#fff;
+    padding:7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color:#000;
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+    }
+    .sticky-top {
+      background-color: #fff;
+      border-bottom: 1px solid #ccc;
+    }
+    .Estilo-1{
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    
+    }
+    
+    h2{
+        font-size:30px;
+    }
+    h3{
+        font-size:24px;
+    }
+    .img-responsive {
+      width: 100%;
+    }
+    .Estilo-2{
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    }
+    
+    .Estilo-3{
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius:10px;
+    display: inline-block;
+    }
+    
+    .Estilo-4{
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    border-radius:10px;
+    }
+    
+    #contenedorContenido h3{
+    margin-top: 15px;
+    
+    }
+  
+  nav {
+    margin-top: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+
+  }
+  
+  nav ul li a {
+
+    text-decoration: none;
+  }
